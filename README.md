@@ -1,5 +1,19 @@
 # 👻 Ghost Protocol - Mobil Mesh Ağı Uygulaması (Node)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Status](https://img.shields.io/badge/Status-Beta-orange.svg)]()
+
+---
+
+## 🌍 Language Selection / Dil Seçimi
+
+- [🇹🇷 **Türkçe**](#-turkish)
+- [🇬🇧 **English**](#-english)
+
+---
+
+
 ## 🇹🇷 Türkçe
 
 Ghost Protocol, merkeziyetsiz bir ağ altyapısı üzerine kurulmuş, sansüre dayanıklı, şeffaf ve kullanıcı odaklı bir içerik platformudur. Bu depo, projenin mobil cihazlara (Android & iOS) uyarlanmış, hafif ve dış bağımlılıklardan arındırılmış **Ghost Mesh Node** uygulamasını içerir.
