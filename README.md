@@ -1,4 +1,4 @@
-# 👻 Ghost Protocol - Mobil Mesh Ağı Uygulaması (Node)
+# 👻 Ghost Protocol - Mobile Mesh Network Application (Node) // Ghost Protocol - Mobil Mesh Ağı Uygulaması (Node)
 
 **The Decentralized, Off-Grid Internet & Blockchain Layer**
 *(Merkeziyetsiz, Şebekeden Bağımsız İnternet ve Blok Zinciri Katmanı)*
